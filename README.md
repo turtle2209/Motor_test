@@ -9,7 +9,7 @@
 | 2026/07/11 | `test_engine` | ① 重构完整工程结构<br>② 封装 PID 模块和 VOFA 调试输出 |
 | 2026/07/10 | `test` | ① 上传电机基础测试代码<br>② 配置 VSCode 开发环境 |
 
-以下图片有关前馈PID
+## :memo: 前馈PID相关图片
 
 <p align="center">
   <img width="600" alt="未加前馈" src="https://github.com/user-attachments/assets/986e1637-2c1e-41b6-8d3e-61c5e9b755c1" />
