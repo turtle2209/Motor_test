@@ -23,12 +23,12 @@
 ## :memo: 前馈PID相关图片
 
 <p align="center">
-  <img width="600" alt="未加前馈" src="https://github.com/user-attachments/assets/986e1637-2c1e-41b6-8d3e-61c5e9b755c1" />
+  <img width="600" alt="未加前馈" src="https://github.com/user-attachments/assets/c3c1e0dc-3e8c-418e-818d-6c12deb38cc7" />
 </p>
 <p align="center"><b>图一：未加前馈</b> — 仅使用传统 PID 控制，存在明显的滞后与超调</p>
 
 <p align="center">
-  <img width="600" alt="加前馈" src="https://github.com/user-attachments/assets/d0ffcb9e-8303-458a-8d8e-bfee842e04dd" />
+  <img width="600" alt="加前馈" src="https://github.com/user-attachments/assets/5968d418-4ef3-4431-8bd7-2dcc29e80080" />
 </p>
 <p align="center"><b>图二：加前馈</b> — 引入前馈 PID 后，响应速度明显提升，跟随误差大幅减小</p>
 
@@ -36,7 +36,5 @@
   <img width="600" alt="Simulink仿真" src="https://github.com/user-attachments/assets/c31af293-6d62-4df7-9066-d5125f57fd8d" />
 </p>
 <p align="center"><b>图三：Simulink 仿真</b> — 通过 Simulink 整定出较优的前馈 PID 参数</p>
-
-
 
 
